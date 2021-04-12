@@ -35,7 +35,7 @@ There are four main parts of the balloon:
 
 The illustration figure is shown as follows: 
 
-![](Assembly_pics/overview.png)
+![](Assembly_pics/overview.jpg)
 
 ### Step 1: Assemble gondola 
 
