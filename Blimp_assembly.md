@@ -151,6 +151,8 @@ After the system battery(The big one) and search camera battery is inserted into
 
 ### The overall picture:
 
+Please use the glue gun to glue all the 3D printed materials to carbon fiber rods
+
 ![](Assembly_pics/26.jpg)
 
 ### Some details: 
