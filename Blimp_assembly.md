@@ -129,6 +129,24 @@ Use scotch tape to attach the wire on the balloon like this:
 
 ![](Assembly_pics/25.jpg)
 
+## Step 9: Put batteries into the gondola
+
+Insert batteries like the following pictures:
+
+![](pics/File_001.jpeg)
+
+![](pics/File_003.jpeg)
+
+![](pics/File_004.jpeg)
+
+After the system battery(The big one) and search camera battery is inserted into the gondola, use a piece of paper to seal the gondola like the following pictures:
+
+![](pics/File_006.jpeg)
+
+![](pics/File_007.jpeg)
+
+![](pics/File_008.jpeg)
+
 ## 3. Assemble the capture mechanism
 
 ### The overall picture:
