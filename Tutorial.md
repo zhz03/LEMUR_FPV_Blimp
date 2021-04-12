@@ -87,7 +87,7 @@ The bottom view of our blimp is shown in the figure:
 
 In the competition, we will use the XBox game controller to control our airships. The illustration figure of game controller is shown in the figure:
 
-![](E:\UCLA\Blimp_project\Public_git_files\Tutorial-Controlling-multiple-control-boards-through-game-controllers\pics\Xbox-360_controller.svg.png) 
+![](pics/Xbox-360_controller.svg.png) 
 
 The corresponding mapping between game controller and function of the airship is in the following table:
 
