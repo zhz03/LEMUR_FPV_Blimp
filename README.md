@@ -4,7 +4,7 @@
 
 - How to use this repo
 - Documents about the competition
-- What to do before the competition
+- What to do before the competition, check to-do list
 
 ## How to use this repo
 
